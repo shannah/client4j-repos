@@ -1,25 +1,25 @@
 <?xml version="1.0"?>
 <repository
-    name="JClient Homepage"
+    name="Client4J Homepage"
     version="1.0"
     vendor="Web Lite Solutions Corp."
-    description="Default homepage for jClient"
+    description="Default homepage for Client4J"
 >
     <app name="Kitchen Sink"
         version="1.0"
         vendor="Codename One"
-        url="https://github.com/shannah/jclient-demos/raw/master/CodenameOne/KitchenSink/"
+        url="https://github.com/shannah/client4j-demos/raw/master/CodenameOne/KitchenSink/"
         />
     <app name="Kitchen Sink 2"
         version="1.0"
         vendor="Codename One"
-        url="https://github.com/shannah/jclient-demos/raw/master/CodenameOne/KitchenSink/"
+        url="https://github.com/shannah/client4j-demos/raw/master/CodenameOne/KitchenSink/"
         />
     
     <app name="SwingSet"
         version="2.0"
         vendor="Oracle"
-        url="https://github.com/shannah/jclient-demos/raw/master/Swing/SwingSet/"
+        url="https://github.com/shannah/client4j-demos/raw/master/Swing/SwingSet/"
         />
     
 
